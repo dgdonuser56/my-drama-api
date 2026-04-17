@@ -1,20 +1,12 @@
 [
   {
     "id": 1,
-    "title": "CEO Mafia King",
-    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500",
+    "title": "Aapki Story Ka Naam",
+    "poster": "POSTER_IMAGE_URL",
+    "category": "Drama",
     "episodes": [
-      {"ep_no": 1, "url": "https://www.w3schools.com/html/mov_bbb.mp4"},
-      {"ep_no": 2, "url": "https://www.w3schools.com/html/movie.mp4"}
-    ]
-  },
-  {
-    "id": 2,
-    "title": "Royal Raisingh",
-    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=500",
-    "episodes": [
-      {"ep_no": 1, "url": "https://www.w3schools.com/html/movie.mp4"},
-      {"ep_no": 2, "url": "https://www.w3schools.com/html/mov_bbb.mp4"}
+      { "ep_no": "1", "url": "VIDEO_DIRECT_LINK_1" },
+      { "ep_no": "2", "url": "VIDEO_DIRECT_LINK_2" }
     ]
   }
 ]
