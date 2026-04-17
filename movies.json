@@ -1,14 +1,8 @@
-[
-  {
-    "id": 1,
-    "title": "Friend's Birthday Special",
-    "poster": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=500",
-    "category": "Personal",
-    "episodes": [
-      { 
-        "ep_no": "1", 
-        "url": "https://www.w3schools.com/html/mov_bbb.mp4" 
-      }
-    ]
-  }
-]
+{
+  "id": 10,
+  "title": "Instagram Birthday Reel",
+  "poster": "https://img.icons8.com/color/500/instagram-new.png",
+  "episodes": [
+    { "ep_no": "1", "url": "https://www.instagram.com/reel/DXPOtDKin5Q/" }
+  ]
+}
