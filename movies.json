@@ -1,12 +1,30 @@
 [
   {
     "id": 1,
-    "title": "Aapki Story Ka Naam",
-    "poster": "POSTER_IMAGE_URL",
+    "title": "The CEO's Secret (Drama)",
+    "poster": "https://images.pexels.com/photos/3756679/pexels-photo-3756679.jpeg?auto=compress&cs=tinysrgb&w=500",
     "category": "Drama",
     "episodes": [
-      { "ep_no": "1", "url": "VIDEO_DIRECT_LINK_1" },
-      { "ep_no": "2", "url": "VIDEO_DIRECT_LINK_2" }
+      { "ep_no": "1", "url": "https://cdn.pixabay.com/video/2021/04/12/70860-537482613_large.mp4" },
+      { "ep_no": "2", "url": "https://cdn.pixabay.com/video/2023/10/22/186064-877402661_large.mp4" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Royal Revenge (Action)",
+    "poster": "https://images.pexels.com/photos/2859016/pexels-photo-2859016.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Action",
+    "episodes": [
+      { "ep_no": "1", "url": "https://cdn.pixabay.com/video/2020/09/24/50825-463212886_large.mp4" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Love in the City",
+    "poster": "https://images.pexels.com/photos/1024960/pexels-photo-1024960.jpeg?auto=compress&cs=tinysrgb&w=500",
+    "category": "Romance",
+    "episodes": [
+      { "ep_no": "1", "url": "https://cdn.pixabay.com/video/2021/08/04/83942-584749372_large.mp4" }
     ]
   }
 ]
